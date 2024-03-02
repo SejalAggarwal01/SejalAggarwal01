@@ -7,8 +7,9 @@
 <div align="center">
  
  
-[![DSA Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SejalAggarwal01)
-[![Linkedin Badge](https://img.shields.io/badge/-SejalAggarwal01-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/SejalAggarwal01/)](https://www.linkedin.com/in/sejalaggarwal01/) [![Twitter Badge](http://img.shields.io/badge/-@SejalAggarwal01-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/SejalAggarwal01)](https://twitter.com/SejalAggarwal01) [![GitHub followers](https://img.shields.io/github/followers/SejalAggarwal01?label=Follow&style=social)](https://github.com/SejalAggarwal01/?tab=follow)
+<!---[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SejalAggarwal01)-->
+[![Linkedin Badge](https://img.shields.io/badge/-SejalAggarwal01-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/SejalAggarwal01/)](https://www.linkedin.com/in/sejalaggarwal01/) [![Twitter Badge](http://img.shields.io/badge/-@SejalAggarwal01-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/SejalAggarwal01)](https://twitter.com/SejalAggarwal01) 
+<!---[![GitHub followers](https://img.shields.io/github/followers/SejalAggarwal01?label=Follow&style=social)](https://github.com/SejalAggarwal01/?tab=follow)-->
 <!---[![Instagram Badge](https://img.shields.io/badge/-sejal_.aggarwal-blue?style=social&logo=Instagram&link=https://www.instagram.com/sejal_.aggarwal/)](https://www.instagram.com/sejal_.aggarwal/) -->
 
 
@@ -52,7 +53,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+<!---[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)-->
 
 
 
@@ -74,7 +75,7 @@ but also gives you various benefits which can improve the quality of your life. 
 <!--footer-->
 
 ##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919917034947) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out]<!---(https://wa.me/+919917034947)--> and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 
 
 <div align="center">
@@ -88,10 +89,10 @@ but also gives you various benefits which can improve the quality of your life. 
 </a>
 <a href="https://linkedin.com/in/SejalAggarwal01" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+<!---</a>
 <a href="https://instagram.com/sejal_.aggarwal" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a> --> 
 
 
 
