@@ -7,9 +7,9 @@
 <div align="center">
  
  
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SejalAggarwal01)
+[![DSA Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SejalAggarwal01)
 [![Linkedin Badge](https://img.shields.io/badge/-SejalAggarwal01-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/SejalAggarwal01/)](https://www.linkedin.com/in/sejalaggarwal01/) [![Twitter Badge](http://img.shields.io/badge/-@SejalAggarwal01-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/SejalAggarwal01)](https://twitter.com/SejalAggarwal01) [![GitHub followers](https://img.shields.io/github/followers/SejalAggarwal01?label=Follow&style=social)](https://github.com/SejalAggarwal01/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-sejal_.aggarwal-blue?style=social&logo=Instagram&link=https://www.instagram.com/sejal_.aggarwal/)](https://www.instagram.com/sejal_.aggarwal/) 
+<!---[![Instagram Badge](https://img.shields.io/badge/-sejal_.aggarwal-blue?style=social&logo=Instagram&link=https://www.instagram.com/sejal_.aggarwal/)](https://www.instagram.com/sejal_.aggarwal/) -->
 
 
 </div>  
@@ -42,13 +42,13 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+<!---![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)-->
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-[![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+<!---[![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)-->
+<!---![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)-->
+<!---![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)-->
+<!---![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)-->
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
